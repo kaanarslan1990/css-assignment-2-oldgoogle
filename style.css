@@ -1,0 +1,46 @@
+body {
+  display: block;
+  margin: 8px;
+}
+.container {
+  display: block;  
+  text-align: -webkit-center;
+  margin-top: 0em;
+  margin-bottom: 1em;
+  width: 100%;
+  height: auto;
+  background-color:#FFFF;
+}
+
+.google-logo {
+    text-align: center;
+    
+}
+table {
+    width: 100%;
+    text-align: center;
+}
+
+.search-box { 
+      
+    text-align: -webkit-center;
+    background-color: #eeee;
+    margin: auto;
+    width: 90%;
+}
+
+.search-top {
+    /* display:block; */
+    text-align: -webkit-center;
+    width: 100%;   
+    
+}
+
+.search-bottom {
+    
+    background-color: rgb(85, 206, 206);
+}
+.special {
+    text-align: center;
+
+}
